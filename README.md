@@ -8,7 +8,7 @@ Project Novelty aims to create the news application for people with impaired vis
 
 
 # Award from IBM:
-<img src="https://github.com/anticol/Novelty-IBM-cloud-project/blob/master/fe/src/img/novelty_award.png" ">
+<img src="https://github.com/anticol/Novelty-IBM-cloud-project/blob/master/fe/src/img/novelty_award.png">
 
 
 
